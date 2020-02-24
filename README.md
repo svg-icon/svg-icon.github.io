@@ -1,1 +1,3 @@
-# svg-icon.github.io
+# SVG Icons
+
+## &lt;img is=svg-icon name=settings stroke=white>
